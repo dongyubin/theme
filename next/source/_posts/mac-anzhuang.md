@@ -44,7 +44,7 @@ keywords:  [nuc8,nuc8i5beh,黑苹果,mac,指南]
   [下载地址](https://www.tonymacx86.com/attachments/be0056-bio-zip.392463/)
 
 - nuc8 安装软件包：
-  [百度云](https://pan.baidu.com/s/1fHmO1p-9tffcw0-rRYj4VA) 提取码：t0gk
+  [蓝奏云](https://www.lanzous.com/b737011/) 提取码：i21t
 
 - EFI文件
 

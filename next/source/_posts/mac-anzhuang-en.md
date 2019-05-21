@@ -1,5 +1,5 @@
 ---
-title: Guide: nuc8i5beh install black apple tutorial, close to perfect operation
+title: Guide:nuc8i5beh install black apple tutorial, close to perfect operation
 date: 2019-05-16 09:00:00
 comments: true
 tags:
@@ -44,7 +44,7 @@ keywords:  [nuc8,nuc8i5beh,Black apple,mac,Guide]
   [download link](https://www.tonymacx86.com/attachments/be0056-bio-zip.392463/)
 
 - nuc8 Installation package：
-  [Baidu network disk](https://pan.baidu.com/s/1fHmO1p-9tffcw0-rRYj4VA) Extraction code：t0gk
+  [network disk](https://www.lanzous.com/b737011/) Extraction code：i21t
 
 - EFI file
 
@@ -132,6 +132,5 @@ exit				# Exit diskpart
 
 ### Or directly contact the blogger QQ: 892457803
 
+### [Chinese version](https://chengxuxiaohei.cn/mac-anzhuang.html)
 
-<div class="note default"><p>Recommended</p></div>
-[Chinese version](https://chengxuxiaohei.cn/mac-anzhuang.html)

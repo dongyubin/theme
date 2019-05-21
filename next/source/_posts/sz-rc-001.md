@@ -12,6 +12,9 @@ categories:
 	- 日常
 keywords:  [文武科技社,科技社,日常,001]
 top: 1
+password: 892457
+abstract: 我的小秘密，你想知道吗？
+message: 密码提示:一个让我难忘的号码！
 ---
 
 ![美图](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557245162295&di=0be3dfc9bbd53722a509662f10414a55&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201706%2F10%2F20170610095055_G5LM8.jpeg)
